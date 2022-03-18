@@ -1,4 +1,4 @@
-# Animal-Shelter-Manageent-System
+# Animal-Shelter-Management-System
 ## Notre application de gestion est une solution gérée pour les refuges pour animaux, les groupes de secours et les installations de contrôle des animaux. Elle offre des outils pour stocker, ajouter ou supprimer les données des animaux de compagnie du refuge (noms, race, âge,...), ainsi que les données des propriétaires si l'animal est adopté ou en cours d'adoption.
 
 ### -L'application écrite en Java utilise Swing comme interface graphique principale.  
